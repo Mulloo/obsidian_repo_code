@@ -1,0 +1,8 @@
+- Ion
+	- Ion is based on the Atlas Titan model the original model produced by Hammond Robotics. Ton is armed with D.E.W (Directed Energy Weapons). Weapons such as the Laser shot, Splitter Rifle and Laser Core. Ions
+- Scorch
+- NorthStar
+- Ronin
+- Tone
+- Legion
+- Monarch

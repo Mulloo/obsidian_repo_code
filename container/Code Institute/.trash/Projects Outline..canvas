@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"8bf0a4898407e095","type":"group","x":-2335,"y":-570,"width":1295,"height":690,"color":"3","label":"Weaponds"},
+		{"id":"8a91b259d832f003","type":"group","x":-3102,"y":-580,"width":722,"height":980,"color":"2","label":"Pilots"},
+		{"id":"ba43e94c158a2933","type":"text","text":"Titains\n","x":-860,"y":-700,"width":144,"height":56},
+		{"id":"05b32e02e9bd03fb","type":"text","text":"Project 1 (HTML + CSS)","x":-2530,"y":-1640,"width":250,"height":50,"color":"4"},
+		{"id":"cd613a805a159476","type":"text","text":"Static Website","x":-2530,"y":-1538,"width":250,"height":60},
+		{"id":"ac900271ef5c09ea","type":"text","text":"Project 2 (HTML + CSS + Javascript)","x":-2280,"y":-1640,"width":340,"height":50,"color":"1"},
+		{"id":"7e5813194aec181c","type":"text","text":"Project 3 (Python)","x":-1940,"y":-1640,"width":200,"height":50,"color":"1"},
+		{"id":"32921a9a714b36c0","type":"text","text":"Project 4 (Full Stack)","x":-1740,"y":-1640,"width":220,"height":50,"color":"1"},
+		{"id":"8845b722ba1acfda","type":"text","text":"Project 5 (E-Com Site)   ","x":-1520,"y":-1640,"width":270,"height":50,"color":"1"},
+		{"id":"b927c879d07f107e","type":"text","text":"Titanfall 2 Wiki (IDEA 1)\n","x":-3102,"y":-700,"width":369,"height":60,"color":"6"},
+		{"id":"4fc0eb5d40afb08b","type":"text","text":"Pilots","x":-3102,"y":-580,"width":140,"height":55,"color":"2"},
+		{"id":"959e3a2f81aad074","type":"text","text":"Project 1 HTML & CSS.","x":-3102,"y":-800,"width":369,"height":60,"color":"4"},
+		{"id":"c9e28f68cab924a0","type":"file","file":"Primary Weaponds Tiatinfall 2 Project Data.md","x":-2335,"y":-360,"width":648,"height":480,"color":"3"},
+		{"id":"86c3a148ae9d1294","type":"text","text":"Weapons","x":-2335,"y":-570,"width":155,"height":50,"color":"4"},
+		{"id":"daa6dbf8a41733ed","type":"file","file":"Pilot Tactical.md","x":-3102,"y":-420,"width":722,"height":340,"color":"2"},
+		{"id":"aaa3e4ed4e54f507","type":"file","file":"Secondary Weaponds Tiatinfall 2 Project Data.md","x":-1687,"y":-360,"width":647,"height":480,"color":"3"},
+		{"id":"aab66d34b9966d89","type":"file","file":"Project 1 INFO.md","x":-3620,"y":-795,"width":260,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"c9232cb7484488ac","fromNode":"05b32e02e9bd03fb","fromSide":"bottom","toNode":"cd613a805a159476","toSide":"top"},
+		{"id":"4db1a37eb9e81e9f","fromNode":"b927c879d07f107e","fromSide":"right","toNode":"ba43e94c158a2933","toSide":"left"},
+		{"id":"44ab261319e0a8ed","fromNode":"b927c879d07f107e","fromSide":"left","toNode":"4fc0eb5d40afb08b","toSide":"left","color":"4"},
+		{"id":"dd4560c6f3161dd7","fromNode":"959e3a2f81aad074","fromSide":"left","toNode":"b927c879d07f107e","toSide":"left","color":"4"},
+		{"id":"5df5344c4239eafb","fromNode":"86c3a148ae9d1294","fromSide":"bottom","toNode":"c9e28f68cab924a0","toSide":"top","color":"6"},
+		{"id":"18b0e85d7b626102","fromNode":"4fc0eb5d40afb08b","fromSide":"right","toNode":"86c3a148ae9d1294","toSide":"left","color":"4"},
+		{"id":"f2f66ac799542f06","fromNode":"4fc0eb5d40afb08b","fromSide":"bottom","toNode":"daa6dbf8a41733ed","toSide":"top","color":"5"},
+		{"id":"835b84422402e279","fromNode":"959e3a2f81aad074","fromSide":"left","toNode":"aab66d34b9966d89","toSide":"right","color":"1"},
+		{"id":"255b511a51643504","fromNode":"86c3a148ae9d1294","fromSide":"right","toNode":"aaa3e4ed4e54f507","toSide":"top","color":"#00ff6a"}
+	]
+}
