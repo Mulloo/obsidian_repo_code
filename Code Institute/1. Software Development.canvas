@@ -3,7 +3,7 @@
 		{"id":"4d2aaf5ea3f93dcf","type":"group","x":-8430,"y":-11120,"width":3060,"height":2720,"color":"1","label":"PP2 HTML, CSS & JavaScript  "},
 		{"id":"7887f41998d97f6a","type":"group","x":-8430,"y":-13760,"width":3060,"height":2440,"color":"1","label":"Project 3"},
 		{"id":"556596df7146c524","type":"group","x":-8430,"y":-8240,"width":3060,"height":1945,"color":"1","label":"PP1 HTML & CSS"},
-		{"id":"a50e550edb2dd1d5","type":"group","x":-880,"y":-8680,"width":1440,"height":1040,"color":"4","label":"Project 4"},
+		{"id":"a50e550edb2dd1d5","type":"group","x":-880,"y":-8680,"width":1440,"height":1980,"color":"4","label":"Project 4"},
 		{"id":"8bf0a4898407e095","type":"group","x":-6790,"y":-7930,"width":980,"height":560,"label":"Weaponds"},
 		{"id":"22c6785dd38099a3","type":"group","x":-2000,"y":-6983,"width":700,"height":343,"color":"1","label":"Portfolio"},
 		{"id":"8a91b259d832f003","type":"group","x":-7260,"y":-7930,"width":380,"height":560,"label":"Pilots"},
@@ -46,12 +46,13 @@
 		{"id":"aaa3e4ed4e54f507","type":"file","file":"remote-blog/Code Institute/Projects/Poject 1/Secondary Weaponds Tiatinfall 2 Project Data.md","x":-6300,"y":-7890,"width":430,"height":480,"color":"4"},
 		{"id":"c9e28f68cab924a0","type":"file","file":"remote-blog/Code Institute/Projects/Poject 1/Primary Weaponds Tiatinfall 2 Project Data.md","x":-6730,"y":-7890,"width":420,"height":480,"color":"4"},
 		{"id":"a7c2d9475fcae52f","type":"file","file":"remote-blog/Code Institute/Projects/Poject 1/UDX.md","x":-6730,"y":-7210,"width":860,"height":540,"color":"4"},
-		{"id":"892eacd9ed16424f","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Readme.md","x":-800,"y":-8600,"width":400,"height":400,"color":"3"},
+		{"id":"892eacd9ed16424f","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Readme.md","x":-800,"y":-8600,"width":400,"height":400,"color":"6"},
 		{"id":"297925da51a84ac7","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/CSS.md","x":-370,"y":-8600,"width":400,"height":400,"color":"5"},
 		{"id":"2aa2917c41605eac","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/HTML.md","x":90,"y":-8600,"width":400,"height":400,"color":"2"},
-		{"id":"5c626e3c154a3cc9","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Python.md","x":-800,"y":-8140,"width":400,"height":400,"color":"4"},
-		{"id":"95c87302e417ec78","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/JavaScript.md","x":-370,"y":-8140,"width":400,"height":400,"color":"6"},
-		{"id":"08f1d1d9ef359787","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Bugs.md","x":90,"y":-8140,"width":400,"height":400,"color":"1"}
+		{"id":"5c626e3c154a3cc9","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Agile Design.md","x":-800,"y":-8140,"width":400,"height":400,"color":"4"},
+		{"id":"95c87302e417ec78","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/JavaScript.md","x":-370,"y":-8140,"width":400,"height":400,"color":"3"},
+		{"id":"08f1d1d9ef359787","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Bugs.md","x":90,"y":-8140,"width":400,"height":400,"color":"1"},
+		{"id":"c46c75140c488b17","type":"file","file":"remote-blog/Code Institute/Projects/Project 4/Agile Design.md","x":-800,"y":-7680,"width":1290,"height":920,"color":"5"}
 	],
 	"edges":[
 		{"id":"f8c69dd84275cf48","fromNode":"32921a9a714b36c0","fromSide":"bottom","toNode":"20617b4358ec3b38","toSide":"top","toEnd":"none","color":"6","label":"05/07/24"},

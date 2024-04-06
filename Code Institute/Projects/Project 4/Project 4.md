@@ -2,6 +2,6 @@
 [[Bugs]]
 [[remote-blog/Code Institute/Projects/Project 4/JavaScript|JavaScript]]
 [[CSS]]
-[[remote-blog/Code Institute/Projects/Project 4/Python|Python]]
+[[Agile Design|Agile Design]]
 [[HTML]]
 ***
