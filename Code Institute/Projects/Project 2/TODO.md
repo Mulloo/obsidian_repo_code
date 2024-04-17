@@ -1,4 +1,5 @@
-- [ ] 
+- [ ] Crud
+- [ ] Canban board
 - [ ] 
 - [ ] 
 - [ ] 
